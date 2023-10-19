@@ -1,0 +1,140 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+ 
+.flex-container {
+    display: flex;
+    justify-content:space-around;
+    position:relative;
+    z-index: 1;
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 2px;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 50px;
+    background-color: transparent;
+}
+
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+}
+
+.container5{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 490px;
+    left: 9;
+    background-color: transparent;
+
+}
+
+.container6{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 487;
+    left: 58;
+    background-color: transparent;
+
+}
+
+.container7 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 587;
+    right: 44;
+    background-color: transparent;
+    z-index: 1;
+
+}
+
+
+.circle1 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+  
+ }
+
+ .circle2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+ }
+
+ .circle3 {
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+ }
+
+.circle4 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.circle5 {
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+}
+.circle6 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.circle7 {
+    height: 225px;
+    width: 225px;
+    border-radius: 50%;
+}
+
+.circle8 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.tri1 {
+    width: 100;
+    height: 100;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%)
+}
+
+.tri2 {
+    width: 100;
+    height: 100;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%)
+
+}
+
+.tri3 {
+    width: 100;
+    height: 100;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%)
+
+}
+

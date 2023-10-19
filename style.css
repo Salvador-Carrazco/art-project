@@ -1,0 +1,21 @@
+div {
+    text-align: center;  
+    position: relative;
+    top: 200px;   
+
+}
+p {
+    font-family: gem;
+}
+img { 
+    width: 200px;
+}
+
+@font-face {
+    font-family: gem;
+    src: url(../fonts/Gemstone.ttf);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: lighter;
+}
+
